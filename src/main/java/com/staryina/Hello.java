@@ -7,5 +7,6 @@ public class Hello {
         System.out.println("hotfix git");
         System.out.println("push1 test");
         System.out.println("push2 test");
+        System.out.println("pull test");
     }
 }
